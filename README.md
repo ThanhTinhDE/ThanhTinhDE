@@ -1,14 +1,11 @@
 ## Hi there 👋, I'm Thanh Tinh (ThanhTinhSHR/OLD_SILVER).
 ### 💫 About Me
 
-I'm actively building my career path toward becoming a Senior Data Engineer by following a structured learning roadmap and working on real-world projects.
-
-I’m passionate about how data flows through systems, how automated components integrate, and how everything comes together in a **Modern Data Platform**.  
-I prefer going deep into core problems rather than quick fixes.  
-
-To enhance my ability to design scalable solutions, I'm also learning DevOps alongside data engineering.
-✉️ You can shoot me an email at thanhtinh.de@gmail.com! I'll try to respond as soon as I can.
-
+- I'm actively building my career path toward becoming a Senior Data Engineer by following a structured learning roadmap and working on real-world projects.
+- I’m passionate about how data flows through systems, how automated components integrate, and how everything comes together in a **Modern Data Platform**.  
+- I prefer going deep into core problems rather than quick fixes.  
+- To enhance my ability to design scalable solutions, I'm also learning DevOps alongside data engineering.
+- ✉️ You can shoot me an email at thanhtinh.de@gmail.com! I'll try to respond as soon as I can.
 
 ## 🚀 Tech Stack
 

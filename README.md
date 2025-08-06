@@ -26,12 +26,13 @@
 
 ## 🚀 Featured Projects (Organization: [OLD-SILVER-org](https://github.com/OLD-SILVER-org))
 
+### 📈 DWH-Stock-BigData  
+A production-grade real-time data warehouse for stock market analytics. Ingests live market data using Kafka and Spark, stores time-series data in InfluxDB, and provides insights via Superset dashboards.  
+🔗 [View project](https://github.com/OLD-SILVER-org/DWH-Stock-BigData)
+
 ### 🏟 Champions League DWH  
 A modern data warehouse for UEFA Champions League data. Includes match schedules, results, player statistics, and rankings. Built using Apache Kafka, Spark, and visualized with Superset.  
 🔗 [View project](https://github.com/OLD-SILVER-org/champions-league-dwh)
 
-### 📈 DWH-Stock-BigData  
-A production-grade real-time data warehouse for stock market analytics. Ingests live market data using Kafka and Spark, stores time-series data in InfluxDB, and provides insights via Superset dashboards.  
-🔗 [View project](https://github.com/OLD-SILVER-org/DWH-Stock-BigData)
 
 

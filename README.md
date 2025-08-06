@@ -23,3 +23,15 @@
 
 ### ⚙️ DevOps & Infrastructure  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🚀 Featured Projects (Organization: [OLD-SILVER-org](https://github.com/OLD-SILVER-org))
+
+### 🏟 Champions League DWH  
+A modern data warehouse for UEFA Champions League data. Includes match schedules, results, player statistics, and rankings. Built using Apache Kafka, Spark, and visualized with Superset.  
+🔗 [View project](https://github.com/OLD-SILVER-org/champions-league-dwh)
+
+### 📈 DWH-Stock-BigData  
+A production-grade real-time data warehouse for stock market analytics. Ingests live market data using Kafka and Spark, stores time-series data in InfluxDB, and provides insights via Superset dashboards.  
+🔗 [View project](https://github.com/OLD-SILVER-org/DWH-Stock-BigData)
+
+
